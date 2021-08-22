@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\diyap\source\repos\quadraticequations\Source.c(11): warning C4716: 'rtdiff': must return a value
+C:\Users\diyap\source\repos\quadraticequations\Source.c(17): warning C4716: 'rtdiff1': must return a value
+C:\Users\diyap\source\repos\quadraticequations\Source.c(23): warning C4716: 'rtdiff2': must return a value
+  quadraticequations.vcxproj -> C:\Users\diyap\source\repos\quadraticequations\Debug\quadraticequations.exe

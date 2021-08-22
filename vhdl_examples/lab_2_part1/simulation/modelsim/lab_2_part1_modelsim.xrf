@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/diyap/OneDrive/Masaüstü/lab_2_part1/lab_2_part1.v
+source_file = 1, C:/Users/diyap/OneDrive/Masaüstü/lab_2_part1/Waveform.vwf
+source_file = 1, C:/Users/diyap/OneDrive/Masaüstü/lab_2_part1/db/lab_2_part1.cbx.xml
+design_name = lab_2_part1
+instance = comp, \Y~output , Y~output, lab_2_part1, 1
+instance = comp, \Clk~input , Clk~input, lab_2_part1, 1
+instance = comp, \Clk~inputclkctrl , Clk~inputclkctrl, lab_2_part1, 1
+instance = comp, \x~input , x~input, lab_2_part1, 1
+instance = comp, \pstate.S0~feeder , pstate.S0~feeder, lab_2_part1, 1
+instance = comp, \pstate.S0 , pstate.S0, lab_2_part1, 1
+instance = comp, \nstate~10 , nstate~10, lab_2_part1, 1
+instance = comp, \pstate.S1 , pstate.S1, lab_2_part1, 1
+instance = comp, \Selector0~0 , Selector0~0, lab_2_part1, 1
+instance = comp, \Y~reg0 , Y~reg0, lab_2_part1, 1

@@ -1,0 +1,11 @@
+|lab1
+CLK => Q1.CLK
+CLK => Q0.CLK
+X => J0.IN1
+X => K1.IN1
+X => Z.IN1
+X => Q0.IN1
+X => J1.IN1
+Z <= Z.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,27 @@
+     Assembly listing for: lab5_1.mas
+                Assembled: Thu Jun 03 14:43:40 TRT 2021
+
+000 1006 |         LOAD X            
+001 3007 |         ADD Y             
+002 4008 |         SUBT Z            
+003 2009 |         STORE Result      
+004 6000 |         OUTPUT            
+005 7000 |         HALT              
+006 000A |  X      DEC 10            
+007 0014 |  Y      DEC 20            
+008 0005 |  Z      DEC 5             
+009 0000 |  Result DEC 0             
+
+Assembly successful.
+
+         SYMBOL TABLE
+         --------------------------------------------------
+          Symbol | Defined | References 
+         --------+---------+-------------------------------
+          Result |   009   | 003
+          X      |   006   | 000
+          Y      |   007   | 001
+          Z      |   008   | 002
+         --------------------------------------------------
+
+

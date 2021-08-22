@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\diyap\OneDrive\Masaüstü\lab_2_part2\simulation\qsim
+vlab_2_part2
+Z1 IW=g2F:EGhdAiAFA1kQoVh1
+Z2 Vc:ibe9OgW@fZ<laBWX9mT0
+Z3 dC:\Users\diyap\OneDrive\Masaüstü\lab_2_part2\simulation\qsim
+Z4 w1618426858
+Z5 8lab_2_part2.vo
+Z6 Flab_2_part2.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 Ym`k2a53gWc@o7487e89n1
+!s85 0
+Z10 !s108 1618426859.280000
+Z11 !s107 lab_2_part2.vo|
+Z12 !s90 -work|work|lab_2_part2.vo|
+!s101 -O0
+vlab_2_part2_vlg_check_tst
+!i10b 1
+!s100 TzU_d>NLG5kJn?a[10V>f2
+IiIb]gLdcQP:KG9bz8?zLo3
+V^iPaU^17g46]zQ5eXY2FO2
+R3
+R4
+Z13 8lab_2_part2.vt
+Z14 Flab_2_part2.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z15 !s108 1618426859.335000
+Z16 !s107 lab_2_part2.vt|
+Z17 !s90 -work|work|lab_2_part2.vt|
+!s101 -O0
+R8
+vlab_2_part2_vlg_sample_tst
+!i10b 1
+!s100 O_h[U1[1RH[Nj?Mh_jkl^3
+IkO:ZW1A[24zA:bQN91NQ^2
+V@m^3f?_4]P9OWS?_V3Tc:0
+R3
+R4
+R13
+R14
+L0 29
+R7
+r1
+!s85 0
+31
+R15
+R16
+R17
+!s101 -O0
+R8
+vlab_2_part2_vlg_vec_tst
+!i10b 1
+!s100 7mNoS6jia7T^YZlNYg`:I0
+Izh:1_X0bR2?WLSEAQ<n1T1
+VPZU3<jHffHkeO]WBG;h?00
+R3
+R4
+R13
+R14
+L0 154
+R7
+r1
+!s85 0
+31
+R15
+R16
+R17
+!s101 -O0
+R8

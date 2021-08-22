@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\diyap\source\repos\quadraticequationwithswich\Source.c(8,18): warning C4101: 'r2': unreferenced local variable
+C:\Users\diyap\source\repos\quadraticequationwithswich\Source.c(8,15): warning C4101: 'r1': unreferenced local variable
+C:\Users\diyap\source\repos\quadraticequationwithswich\Source.c(8,21): warning C4101: 'r3': unreferenced local variable
+  quadraticequationwithswich.vcxproj -> C:\Users\diyap\source\repos\quadraticequationwithswich\Debug\quadraticequationwithswich.exe

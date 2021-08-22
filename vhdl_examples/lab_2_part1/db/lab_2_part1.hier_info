@@ -1,0 +1,12 @@
+|lab_2_part1
+x => nstate.DATAB
+x => nstate.DATAB
+x => Selector0.IN1
+x => pstate.S0.DATAIN
+x => nstate.S0.DATAIN
+Clk => Y~reg0.CLK
+Clk => pstate~1.DATAIN
+Clk => nstate~3.DATAIN
+Y <= Y~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

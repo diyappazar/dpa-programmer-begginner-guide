@@ -1,0 +1,14 @@
+
+State Machine - |lab_2_part1|pstate
+Name pstate.S3 pstate.S2 pstate.S1 pstate.S0 
+pstate.S0 0 0 0 0 
+pstate.S1 0 0 1 1 
+pstate.S2 0 1 0 1 
+pstate.S3 1 0 0 1 
+
+State Machine - |lab_2_part1|nstate
+Name nstate.S3 nstate.S2 nstate.S1 nstate.S0 
+nstate.S0 0 0 0 0 
+nstate.S1 0 0 1 1 
+nstate.S2 0 1 0 1 
+nstate.S3 1 0 0 1 
